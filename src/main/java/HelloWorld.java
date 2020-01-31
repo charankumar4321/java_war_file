@@ -2,7 +2,7 @@ import spark.servlet.SparkApplication;
 
 import static spark.Spark.get;
 
-public class HelloWorld implements SparkApplication {
+public class HelloWorld1 implements SparkApplication {
 	public static void main(String[] args) {
 		new HelloWorld1().init();
 	}
